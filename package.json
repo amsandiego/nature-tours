@@ -1,0 +1,22 @@
+{
+  "name": "nature-tours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amsandiego/nature-tours.git"
+  },
+  "author": "Annamarie San Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amsandiego/nature-tours/issues"
+  },
+  "homepage": "https://github.com/amsandiego/nature-tours#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
